@@ -11,3 +11,7 @@
 .box-1{
   width: 85%; 
 }
+
+.box-1 li{
+  list style: square; 
+}
