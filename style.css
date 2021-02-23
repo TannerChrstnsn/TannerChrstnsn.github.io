@@ -19,3 +19,7 @@
 .box-1 li{
   list-style: square; 
 }
+
+.box-1 h2{
+  text-style: underline;
+}
