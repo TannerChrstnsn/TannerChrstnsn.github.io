@@ -1,18 +1,18 @@
 *{
-  background-color: grey;
+  margin-color: grey;
   color: white;
   margin: auto;
 }
 
 .heading{
   background-color: #333333;
-  width: 85%; 
+  width: 80%; 
   border-right: 5px red solid;
 }
 
 .box-1{
   background-color: #333;
-  width: 85%;
+  width: 80%;
   border-right: 5px red solid;
 }
 
