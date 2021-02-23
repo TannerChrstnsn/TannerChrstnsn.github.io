@@ -10,7 +10,8 @@
   width: 80%; 
   border-right: 5px red solid;
   padding: 15px;
-  line-height: 1.5em;
+  line-height: 1.6em;
+  border-bottom: 3px red solid;
 }
 
 .box-1{
