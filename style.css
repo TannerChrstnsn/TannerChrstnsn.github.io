@@ -1,4 +1,13 @@
 *{
   background-color: black;
   color: white;
+  margin: auto;
+}
+
+.container{
+  width: 85%; 
+}
+
+.box-1{
+  width: 85%; 
 }
