@@ -1,15 +1,19 @@
 *{
-  background-color: black;
+  background-color: #080808;
   color: white;
   margin: auto;
 }
 
 .container{
+  background-color: #333333;
   width: 85%; 
+  border-right: 5px red solid;
 }
 
 .box-1{
-  width: 85%; 
+  background-color: #333;
+  width: 85%;
+  border-right: 5px red solid;
 }
 
 .box-1 li{
