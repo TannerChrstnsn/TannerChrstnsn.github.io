@@ -9,12 +9,14 @@
   background-color: #333333;
   width: 80%; 
   border-right: 5px red solid;
+  padding: 15px
 }
 
 .box-1{
   background-color: #333;
   width: 80%;
   border-right: 5px red solid;
+  padding: 15px
 }
 
 .box-1 li{
@@ -22,5 +24,5 @@
 }
 
 .box-1 h2{
-  text-style: underline;
+  text-decoration: underline;
 }
